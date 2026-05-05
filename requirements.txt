@@ -1,0 +1,12 @@
+neo4j
+openai
+langchain
+langchain-openai
+pydantic
+python-dotenv
+faiss-cpu
+tiktoken
+pandas
+matplotlib
+networkx
+noderag

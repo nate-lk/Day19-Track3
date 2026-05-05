@@ -1,0 +1,9 @@
+OpenAI was founded in December 2015 by Sam Altman, Elon Musk, Greg Brockman, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), Infosys, and YC Research. Sam Altman and Elon Musk served as the initial co-chairmen. The company is headquartered in San Francisco.
+
+In 2018, Elon Musk resigned from the board to avoid potential future conflicts of interest with Tesla, as the carmaker was developing its own AI for self-driving cars. Microsoft invested $1 billion in OpenAI in 2019, followed by a multi-year, multi-billion dollar investment in 2023.
+
+OpenAI released ChatGPT in November 2022, which gained massive popularity. ChatGPT is built on top of OpenAI's GPT-3.5 and GPT-4 families of large language models. Microsoft's Bing Search now uses OpenAI technology to power its conversational search features.
+
+Google, a subsidiary of Alphabet Inc., is a major competitor to OpenAI. Google developed its own large language model called Gemini (formerly Bard). Sundar Pichai is the CEO of both Google and Alphabet Inc. Google is headquartered in Mountain View, California.
+
+Nvidia, led by CEO Jensen Huang, provides the essential GPU hardware used by both OpenAI and Google to train their large language models. Nvidia's H100 and A100 chips are the industry standard for AI computation.

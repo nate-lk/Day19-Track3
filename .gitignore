@@ -1,2 +1,5 @@
 .env
 venv/
+neo4j/
+tiktoken_cache/
+__pycache__/
